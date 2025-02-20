@@ -26,7 +26,7 @@ function Home2() {
               <br />
               <br />I am proficient in a number of languages; such as, 
               <i>
-                <b className="purple"> C*, Javascript, Python, and C++. </b>
+                <b className="purple"> C#, Javascript, Python, and C++. </b>
               </i>
               <br />
               <br />
