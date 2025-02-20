@@ -24,7 +24,7 @@ function Projects() {
               imgPath={publictransportation}
               isBlog={false}
               title="Public Transportation"
-              description="A game inspired by the horror of the New York City Subway. You're at your stop but the doors are far away and fast closing, yet nobody is getting out of your way. The maze generation is based off of Conway's Game of Life where each cell in the maze has it's own set of rules that determine if it is a walkway or not. I used MakeHuman for the characters. I plan to add more elements like sounds; to increase the creepy factor, as well as more animations and a dynamic moving crowd outside the subway cars to increase immersion."
+              description="A game meant to evoke the horror of the New York City subway system. The maze generation algorithm is my own and inspired by Conway's Game of Life and it's simple rules for cells."
               ghLink="https://github.com/OdincoGaming/PublicTransportation"
               demoLink="https://github.com/OdincoGaming/PublicTransportation/"
             />
@@ -35,7 +35,7 @@ function Projects() {
               imgPath={flowerproject}
               isBlog={false}
               title="The Flower Project"
-              description="A prototype of a casual decoration game designed to encourage people to have more house plants. The kiosks in game would eventually link to real websites selling the corresponding flowers. Contains hidden easter eggs. Optimizing the greenhouse gases, webgl responsive scaling, and inputs for mobile were fun experiments with this one."
+              description="A prototype casual decoration game designed as an effort to contribute to climate change. It's meant to encourage people to have more plants in their house and yards."
               ghLink="https://github.com/OdincoGaming/FlowerProject"
               demoLink="https://odincogaming.github.io/FlowerProject/"
             />
@@ -57,7 +57,7 @@ function Projects() {
               imgPath={stockbot}
               isBlog={false}
               title="StockBot"
-              description="A stock trading bot that uses the Alpaca API to buy and sell stocks. It decides what to buy and sell using a Neural Network trained on 20 years worth of minute by minute data on over 2000 companies available on NASDAQ. I learned that prices aren't enough. To be truly succesful overtime it would require sentiment analysis, forum scraping, the ability to watch the news, and a slew of other features. However, this was my first Neural Network written completely from scratch and was a wonderful and infuriating learning experience."
+              description="My first neural network written from scratch. I cleaned and prepared 20 years of data on 2000 companies. It uses rollinger bands, Time and Date, Exponential moving Averages, and a little bit of Dollaar Cost Averaging to make its decisions."
               ghLink="https://github.com/OdincoGaming/StockBot"
             />
           </Col>
@@ -77,7 +77,7 @@ function Projects() {
               imgPath={botornotsquash}
               isBlog={false}
               title="Bot or Not Squash"
-              description="A bot I made that ran it's own Facebook page. (has since been taken down by Meta as it apparently went against their guidelines) Every morning at 9am it would get the top 10 searches from Yahoo. It would then Google those searches and grab the top 10 results for each and use them to generate prompts for a GPT2 LLM. The model I was using came pre-trained on Plato's 'The Republic' I then further trained it myself for over 25,000 epochs on the top 10,000 comments from the top 10,000 posts on Reddit."
+              description="A fully automated Facebook meme page that generated posts with my own custom GPT2 model trained on Reddit. Scheduled Bash scripts ran every 24 hours to generate and post fresh, relevant content."
               ghLink="https://github.com/OdincoGaming/Text-Posting"
              // demoLink="https://github.com/OdincoGaming/Text-Posting"
             />
@@ -88,7 +88,7 @@ function Projects() {
               imgPath={boxing}
               isBlog={false}
               title="Ascii Boxing"
-              description="The first game I released to the Google Play Store. It utilizes a semi-turn based gameplay loop where the length of time you take to make your move determines who goes first. I used Ascii art for the characters as I did not have access to an artist and AI generated art didn't exist yet. This was an eye-opening learning experience about the business side of game development and made me my first $150 as a developer/business owner."
+              description=" Inspired by the games you could get in a happy meal in the early 2000s. My first release on Google Play. Hybrid turn based multiplayer where your speed in choosing a move determines who goes first."
               ghLink="https://github.com/OdincoGaming/AsciiBoxing_Final"
             />
           </Col>

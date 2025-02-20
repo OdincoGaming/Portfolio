@@ -26,13 +26,13 @@ function Home2() {
               <br />
               <br />I am proficient in a number of languages; such as, 
               <i>
-                <b className="purple"> C++, Javascript, Python, and; most fluently, C#. </b>
+                <b className="purple"> C*, Javascript, Python, and C++. </b>
               </i>
               <br />
               <br />
               My passions are &nbsp;
               <i>
-                <b className="purple">Game Development and Design</b> and the opportunities that provides to 
+                <b className="purple">Game Development, Design,</b> and the opportunities they provide to 
                 tell stories and craft experiences.{" "}
                 <b className="purple">
                   Video games are the ultimate form of art.
@@ -40,8 +40,8 @@ function Home2() {
               </i>
               <br />
               <br />
-              I also enjoy experimenting with other kinds of projects such as my
-              <b className="purple"> Stock Analysis Neural Network and Trading AI</b> or writing
+              I also enjoy experimenting with other kinds of projects and hobbies such as my
+              <b className="purple"> Stock Analysis AI and Trading Neural Network</b> or writing
               <i>
                 <b className="purple">
                   {" "}

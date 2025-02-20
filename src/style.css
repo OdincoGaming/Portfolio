@@ -379,8 +379,8 @@ button:focus {
 }
 
 .home-social-icons:hover::before {
-  transform: scale(1.1);
-  box-shadow: 0 0 15px #274754;
+  transform: scale(1.2);
+  box-shadow: 0 0 15px #2a9d90;
 }
 
 .home-social-icons:hover {
@@ -396,7 +396,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #2a9d90 !important;
+  color: #274754 !important;
 }
 
 /* --------- */
